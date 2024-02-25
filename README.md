@@ -14,7 +14,9 @@ This project is a single-page application that mimics the basic functionality of
 ## Setup
 
 Follow these steps to set up and run the project locally:
+
 1.npm i vite@latest
+
 2.npm i
 
 ### Prerequisites
